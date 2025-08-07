@@ -4,11 +4,10 @@
  
 
 ## Installation
-`git clone clone https://github.com/IKcracker/usePopcorn.git
+- `git clone clone https://github.com/IKcracker/usePopcorn.git`
+- `cd usePopcorn
 `
-`cd usePopcorn
-`
-`npm i && npm run dev
+- `npm i && npm run dev
 `
 
 
